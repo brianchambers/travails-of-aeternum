@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map-overworld.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map-overworld.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1073,
+                "y": 679
+            }
+        },
+        "map001.tmx": {
+            "scale": 0.5422916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 450.86438724548606,
+                "y": 319.93853246254326
+            }
+        },
+        "tile-atlas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.imagePath": "D:/Development/Games/MonoGame/TravailsOfAeternum/travails-of-aeternum/TravailsOfAeternum.Tiled",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "map-overworld.tmx",
+        "tile-atlas.tsx"
+    ],
+    "project": "TravailsOfAeternum.tiled-project",
+    "recentFiles": [
+        "tile-atlas.tsx",
+        "map-overworld.tmx",
+        "map001.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

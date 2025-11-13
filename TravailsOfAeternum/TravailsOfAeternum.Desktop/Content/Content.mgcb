@@ -10,6 +10,17 @@
 
 #-------------------------------- References --------------------------------#
 
+/reference:..\pipeline-references\MonoGame.Extended.Content.Pipeline.dll
 
 #---------------------------------- Content ---------------------------------#
+
+#begin map-overworld.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:map-overworld.tmx
+
+#begin tile-atlas.tsx
+/importer:TiledMapTilesetImporter
+/processor:TiledMapTilesetProcessor
+/build:tile-atlas.tsx
 
